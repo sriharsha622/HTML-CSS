@@ -1,0 +1,94 @@
+body{
+  margin: 0;
+  text-align: center;
+  background-color: #D6EFED;
+}
+p{
+  line-height: 2;
+}
+hr{
+  margin:auto;
+}
+a{
+  color: #181818;
+  margin: 40px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #FF06B7;
+}
+.top-container{
+  /* background-image: url('file:///Users/sriharshagullapalli/Desktop/Web%20Development/css-mysite/images/website-image.jpeg'); */
+  position: relative;
+  padding-top: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.first-text{
+  position: absolute;
+  top: 150px;
+  left: 780px;
+  font-family:'sacramento', cursive;
+  font-weight: bolder;
+  font-size: 1.5em;
+}
+
+.second-text{
+  position:absolute;
+  top:230px;
+  left:780px;
+  font-family:inherit;
+  font-weight:lighter;
+}
+
+.middle-container{
+  position: relative;
+  background-color: #AEDBCE;
+}
+.profile_pic{
+  position: absolute;
+  top:60px;
+  left: 20px;
+}
+
+.skills{
+  position: absolute;
+  top: 400px;
+  left: 20px;
+}
+
+.bottom-container{
+  position:relative;
+  background-color: #89CFFD;
+  top:785px;
+}
+/* .btn {
+  background: #00eeff;
+  background-image: -webkit-linear-gradient(top, #00eeff, #2980b9);
+  background-image: -moz-linear-gradient(top, #00eeff, #2980b9);
+  background-image: -ms-linear-gradient(top, #00eeff, #2980b9);
+  background-image: -o-linear-gradient(top, #00eeff, #2980b9);
+  background-image: linear-gradient(to bottom, #00eeff, #2980b9);
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: Arial;
+  color: #000000;
+  font-size: 1ß0px;
+  padding: 10px 10px 10px 10px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #e0bad1;
+  background-image: -webkit-linear-gradient(top, #e0bad1, #3498db);
+  background-image: -moz-linear-gradient(top, #e0bad1, #3498db);
+  background-image: -ms-linear-gradient(top, #e0bad1, #3498db);
+  background-image: -o-linear-gradient(top, #e0bad1, #3498db);
+  background-image: linear-gradient(to bottom, #e0bad1, #3498db);
+  text-decoration: none;
+} */
+
+.copyright{
+  color: #EAF6F6;
+}
